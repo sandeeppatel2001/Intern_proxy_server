@@ -1,0 +1,485 @@
+file-width="4500" data-file-height="5600" />&#160;<a href="/wiki/Portal:Solar_System" title="Portal:Solar 
+System">Solar System</a></span></div></div>
+<div class="navbox-styles nomobile"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"/></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control:_National_libraries_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q38433#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control:_National_libraries_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q38433#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control: National libraries</a>  <a href="https://www.wikidata.org/wiki/Q38433#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" class="noprint" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4642395-3">Germany</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!--
+NewPP limit report
+Parsed by mw1427
+Cached time: 20220811092447
+Cache expiry: 21600
+Reduced expiry: true
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 2.187 seconds
+Real time usage: 2.487 seconds
+Preprocessor visited node count: 23318/1000000
+Post‐expand include size: 359399/2097152 bytes
+Template argument size: 14067/2097152 bytes
+Highest expansion depth: 21/100
+Expensive parser function count: 24/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 451255/5000000 bytes
+Lua time usage: 1.069/10.000 seconds
+Lua memory usage: 9711463/52428800 bytes
+Lua Profile:
+    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::callParserFunction      200 ms   
+    16.9%
+    ?                                                                180 ms       15.3%
+    recursiveClone <mwInit.lua:41>                                   120 ms       10.2%
+    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::gsub       80 ms        6.8%     
+    dataWrapper <mw.lua:669>                                          80 ms        6.8%
+    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::match       60 ms        5.1%    
+    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::setTTL       40 ms        3.4%   
+    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::find       40 ms        3.4%     
+    rawset                                                            40 ms        3.4%
+    <Module:No_globals:8>                                             40 ms        3.4%
+    [others]                                                         300 ms       25.4%
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1841.332      1 -total
+ 47.67%  877.702      2 Template:Reflist
+ 19.95%  367.289     61 Template:Rp
+ 19.13%  352.215     61 Template:R/superscript
+ 16.54%  304.558     57 Template:Cite_journal
+ 16.34%  300.910     58 Template:Cite_book
+  9.26%  170.529    183 Template:R/where
+  9.02%  166.004     18 Template:Refn
+  7.15%  131.590     11 Template:Cite_web
+  5.59%  102.893      1 Template:Classical_mechanics
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:55212-0!canonical and timestamp 20220811092521 and revision id 1103880707.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Newton%27s_laws_of_motion&amp;oldid=1103880707">https://en.wikipedia.org/w/index.php?title=Newton%27s_laws_of_motion&amp;oldid=1103880707</a>"</div></div>
+                <div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Classical_mechanics" title="Category:Classical mechanics">Classical mechanics</a></li><li><a href="/wiki/Category:Isaac_Newton" title="Category:Isaac Newton">Isaac Newton</a></li><li><a href="/wiki/Category:Latin_texts" title="Category:Latin texts">Latin texts</a></li><li><a href="/wiki/Category:Equations_of_physics" title="Category:Equations of physics">Equations of physics</a></li><li><a href="/wiki/Category:Scientific_observation" title="Category:Scientific observation">Scientific observation</a></li><li><a href="/wiki/Category:Experimental_physics" title="Category:Experimental physics">Experimental physics</a></li><li><a href="/wiki/Category:Copernican_Revolution" title="Category:Copernican Revolution">Copernican Revolution</a></li><li><a href="/wiki/Category:Scientific_laws" title="Category:Scientific laws">Scientific laws</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_pages_semi-protected_against_vandalism" title="Category:Wikipedia pages semi-protected against vandalism">Wikipedia pages semi-protected against vandalism</a></li><li><a href="/wiki/Category:Use_British_English_from_July_2019" title="Category:Use British English from July 2019">Use British English from July 2019</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_July_2019" title="Category:Use dmy dates from July 2019">Use dmy dates from July 2019</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div>
+        </div>
+</div>
+
+<div id="mw-navigation">
+        <h2>Navigation menu</h2>
+        <div id="mw-head">
+
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+        <h3
+                id="p-personal-label"
+
+                class="vector-menu-heading "
+        >
+                <span class="vector-menu-heading-label">Personal tools</span>
+        </h3>
+        <div class="vector-menu-content">
+
+                <ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Newton%27s+laws+of+motion" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Newton%27s+laws+of+motion" title="You&#039;re 
+encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+
+        </div>
+</nav>
+
+                <div id="left-navigation">
+
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+        <h3
+                id="p-namespaces-label"
+
+                class="vector-menu-heading "
+        >
+                <span class="vector-menu-heading-label">Namespaces</span>
+        </h3>
+        <div class="vector-menu-content">
+
+                <ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Newton%27s_laws_of_motion" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:Newton%27s_laws_of_motion" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+
+        </div>
+</nav>
+
+
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+        <input type="checkbox"
+                id="p-variants-checkbox"
+                role="button"
+                aria-haspopup="true"
+                data-event-name="ui.dropdown-p-variants"
+                class="vector-menu-checkbox"
+                aria-labelledby="p-variants-label"
+        />
+        <label
+                id="p-variants-label"
+                 aria-label="Change language variant"
+                class="vector-menu-heading "
+        >
+                <span class="vector-menu-heading-label">English</span>
+        </label>
+        <div class="vector-menu-content">
+
+                <ul class="vector-menu-content-list"></ul>
+
+        </div>
+</nav>
+
+                </div>
+                <div id="right-navigation">
+
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+        <h3
+                id="p-views-label"
+
+                class="vector-menu-heading "
+        >
+                <span class="vector-menu-heading-label">Views</span>
+        </h3>
+        <div class="vector-menu-content">
+
+                <ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/Newton%27s_laws_of_motion"><span>Read</span></a></li><li id="ca-viewsource" class="mw-list-item"><a href="/w/index.php?title=Newton%27s_laws_of_motion&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e"><span>View source</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=Newton%27s_laws_of_motion&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+
+        </div>
+</nav>
+
+
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >  
+        <input type="checkbox"
+                id="p-cactions-checkbox"
+                role="button"
+                aria-haspopup="true"
+                data-event-name="ui.dropdown-p-cactions"
+                class="vector-menu-checkbox"
+                aria-labelledby="p-cactions-label"
+        />
+        <label
+                id="p-cactions-label"
+
+                class="vector-menu-heading "
+        >
+                <span class="vector-menu-heading-label">More</span>
+        </label>
+        <div class="vector-menu-content">
+
+                <ul class="vector-menu-content-list"></ul>
+
+        </div>
+</nav>
+
+
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+        <div>
+                        <h3 >
+                                <label for="searchInput">Search</label>
+                        </h3>
+                <form action="/w/index.php" id="searchform"
+                        class="vector-search-box-form">
+                        <div id="simpleSearch"
+                                class="vector-search-box-inner"
+                                 data-search-loc="header-navigation">
+                                <input class="vector-search-box-input"
+                                         type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+                                >
+                                <input type="hidden" name="title" value="Special:Search">
+                                <input id="mw-searchButton"
+                                         class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+                                <input id="searchButton"
+                                         class="searchButton" type="submit" name="go" title="Go to a page 
+with this exact name if it exists" value="Go">
+                        </div>
+                </form>
+        </div>
+</div>
+
+                </div>
+        </div>
+
+
+<div id="mw-panel">
+        <div id="p-logo" role="banner">
+                <a class="mw-wiki-logo" href="/wiki/Main_Page"
+                        title="Visit the main page"></a>
+        </div>
+
+
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+        <h3
+                id="p-navigation-label"
+
+                class="vector-menu-heading "
+        >
+                <span class="vector-menu-heading-label">Navigation</span>
+        </h3>
+        <div class="vector-menu-content">
+
+                <ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+
+        </div>
+</nav>
+
+
+
+<nav id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+        <h3
+                id="p-interaction-label"
+
+                class="vector-menu-heading "
+        >
+                <span class="vector-menu-heading-label">Contribute</span>
+        </h3>
+        <div class="vector-menu-content">
+
+                <ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+
+        </div>
+</nav>
+
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+        <h3
+                id="p-tb-label"
+
+                class="vector-menu-heading "
+        >
+                <span class="vector-menu-heading-label">Tools</span>
+        </h3>
+        <div class="vector-menu-content">
+
+                <ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Newton%27s_laws_of_motion" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Newton%27s_laws_of_motion" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload 
+files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a 
+href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Newton%27s_laws_of_motion&amp;oldid=1103880707" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Newton%27s_laws_of_motion&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Newton%27s_laws_of_motion&amp;id=1103880707&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q38433" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+
+        </div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+        <h3
+                id="p-coll-print_export-label"
+
+                class="vector-menu-heading "
+        >
+                <span class="vector-menu-heading-label">Print/export</span>
+        </h3>
+        <div class="vector-menu-content">
+
+                <ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a 
+href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Newton%27s_laws_of_motion&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Newton%27s_laws_of_motion&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+
+        </div>
+</nav>
+
+
+<nav id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+        <h3
+                id="p-wikibase-otherprojects-label"
+
+                class="vector-menu-heading "
+        >
+                <span class="vector-menu-heading-label">In other projects</span>
+        </h3>
+        <div class="vector-menu-content">
+
+                <ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Newton%27s_laws_of_motion" hreflang="en"><span>Wikimedia Commons</span></a></li></ul>
+
+        </div>
+</nav>
+
+
+
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+        <h3
+                id="p-lang-label"
+
+                class="vector-menu-heading "
+        >
+                <span class="vector-menu-heading-label">Languages</span>
+        </h3>
+        <div class="vector-menu-content">
+
+                <ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Newton_se_bewegingswette" title="Newton se bewegingswette – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-als mw-list-item"><a href="https://als.wikipedia.org/wiki/Newtonsche_Gesetze" title="Newtonsche Gesetze – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target"><span>Alemannisch</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%82%D9%88%D8%A7%D9%86%D9%8A%D9%86_%D9%86%D9%8A%D9%88%D8%AA%D9%86_%D9%84%D9%84%D8%AD%D8%B1%D9%83%D8%A9" title="قوانين نيوتن للحركة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-as mw-list-item"><a href="https://as.wikipedia.org/wiki/%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%A8%E0%A7%B0_%E0%A6%97%E0%A6%A4%E0%A6%BF%E0%A7%B0_%E0%A6%B8%E0%A7%82%E0%A6%A4%E0%A7%8D%E0%A7%B0" title="নিউটনৰ গতিৰ সূত্ৰ – Assamese" lang="a
+s" hreflang="as" class="interlanguage-link-target"><span>অসমীয়া</span></a></li><li class="interlanguage-l
+ink interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Lleis_de_Newton" title="Lleis de Newton – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Nyuton_qanunlar%C4%B1" title="Nyuton qanunları – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%97%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A7%82%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9" title="নিউটনের গতিসূত্রসমূহ – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span
+></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B_%D0%9D%D1%8C%D1%8E%D1%82%D0%B0%D0%BD%D0%B0" title="Законы Ньютана – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B_%D0%9D%D1%8C%D1%8E%D1%82%D0%B0%D0%BD%D0%B0" title="Законы Ньютана – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bh mw-list-item"><a href="https://bh.wikipedia.org/wiki/%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9F%E0%A4%A8%E0%A4%95%E0%A4%B0_%E0%A4%97%E0%A4%A4%E0%A4%BF_%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE" title="न्यूटनकर गति नियम – Bhojpuri
+" lang="bh" hreflang="bh" class="interlanguage-link-target"><span>भोजपुरी</span></a></li><li class="interl
+anguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D0%B8_%D0%BD%D0%B0_%D0%9D%D1%8E%D1%82%D0%BE%D0%BD" title="Закони на Нютон – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bar mw-list-item"><a href="https://bar.wikipedia.org/wiki/Newtonsche_Axiome" title="Newtonsche Axiome – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target"><span>Boarisch</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Newtonovi_zakoni_kretanja" title="Newtonovi zakoni kretanja – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-bxr mw-list-item"><a href="https://bxr.wikipedia.org/wiki/%D0%9D%D1%8C%D1%8E%D1%82%D0%BE%D0%BD%D0%BE%D0%B9_%D1%85%D1%83%D1%83%D0%BB%D0%B8%D0%BD%D1%83%D1%83%D0%B4" title="Ньютоной хуулинууд – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target"><span>Буряад</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Lleis_de_Newton" title="Lleis de Newton – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cv mw-list-item"><a href="https://cv.wikipedia.org/wiki/%D0%9D%D1%8C%D1%8E%D1%82%D0%BE%D0%BD_%D1%81%D0%B0%D0%BA%D0%BA%D1%83%D0%BD%C4%95%D1%81%D0%B5%D0%BC" title="Ньютон саккунĕсем – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target"><span>Чӑвашла</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Newtonovy_pohybov%C3%A9_z%C3%A1kony" title="Newtonovy pohybové zákony – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-sn mw-list-item"><a href="https://sn.wikipedia.org/wiki/Mitemo_yaNewton_paMuhambo" title="Mitemo yaNewton paMuhambo – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target"><span>ChiShona</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a href="https://cy.wikipedia.org/wiki/Deddfau_mudiant_Newton" title="Deddfau mudiant Newton – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Newtons_love" title="Newtons love – Danish" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Newtonsche_Gesetze" title="Newtonsche Gesetze – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Newtoni_seadused" title="Newtoni seadused – Estonian" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%9D%CF%8C%CE%BC%CE%BF%CE%B9_%CE%BA%CE%AF%CE%BD%CE%B7%CF%83%CE%B7%CF%82_%CF%84%CE%BF%CF%85_%CE%9D%CE%B5%CF%8D%CF%84%CF%89%CE%BD%CE%B1" title="Νόμοι κίνησης του Νεύτωνα – Greek" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Leyes_de_Newton" title="Leyes de Newton – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Le%C4%9Doj_de_Newton_pri_movo" title="Leĝoj de Newton pri movo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Newtonen_legeak" title="Newtonen legeak – Basque" 
+lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%82%D9%88%D8%A7%D9%86%DB%8C%D9%86_%D8%AD%D8%B1%DA%A9%D8%AA_%D9%86%DB%8C%D9%88%D8%AA%D9%86" title="قوانین حرکت نیوتن – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Lois_du_mouvement_de_Newton" title="Lois du mouvement de Newton – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-fy mw-list-item"><a href="https://fy.wikipedia.org/wiki/Wetten_fan_Newton" title="Wetten fan Newton – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target"><span>Frysk</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Dl%C3%ADthe_gluaisne_Newton" title="Dlíthe gluaisne Newton – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Leis_de_Newton" title="Leis de Newton – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-ki mw-list-item"><a href="https://ki.wikipedia.org/wiki/Mawatho_matano_ma_Newton" title="Mawatho matano ma Newton – Kikuyu" lang="ki" hreflang="ki" class="interlanguage-link-target"><span>Gĩkũyũ</span></a></li><li class="interlanguage-link interwiki-gu mw-list-item"><a href="https://gu.wikipedia.org/wiki/%E0%AA%97%E0%AA%A4%E0%AA%BF%E0%AA%A8%E0%AA%BE_%E0%AA%A8%E0%AA%BF%E0%AA%AF%E0%AA%AE%E0%AB%8B" title="ગતિના નિયમો – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target"><span>ગુજરાતી</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://
+ko.wikipedia.org/wiki/%EB%89%B4%ED%84%B4_%EC%9A%B4%EB%8F%99_%EB%B2%95%EC%B9%99" title="뉴턴 운동 법칙 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%86%D5%B5%D5%B8%D6%82%D5%BF%D5%B8%D5%B6%D5%AB_%D6%85%D6%80%D5%A5%D5%B6%D6%84%D5%B6%D5%A5%D6%80" title="Նյուտոնի օրենքներ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9F%E0%A4%A8_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%A4%E0%A4%BF_%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE" title="न्यूटन के गति नियम – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target"><s
+pan>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wik
+ipedia.org/wiki/Newtonovi_zakoni_gibanja" title="Newtonovi zakoni gibanja – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-io mw-list-item"><a href="https://io.wikipedia.org/wiki/Legi_di_Newton" title="Legi di Newton – Ido" lang="io" hreflang="io" class="interlanguage-link-target"><span>Ido</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Hukum_gerak_Newton" title="Hukum gerak Newton – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ia mw-list-item"><a href="https://ia.wikipedia.org/wiki/Leges_de_Newton" title="Leges de Newton – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target"><span>Interlingua</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/L%C3%B6gm%C3%A1l_Newtons" title="Lögmál Newtons – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Principi_della_dinamica" title="Principi della dinamica – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A7%D7%99_%D7%94%D7%AA%D7%A0%D7%95%D7%A2%D7%94_%D7%A9%D7%9C_%D7%A0%D7%99%D7%95%D7%98%D7%95%D7%9F" title="חוקי התנועה של ניוטון – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-kbp mw-list-item"><a href="https://kbp.wikipedia.org/wiki/Newton_ciiduu_pa%C9%A3t%CA%8B_nd%C9%A9_nd%C9%A9" title="Newton ciiduu paɣtʋ ndɩ ndɩ – Kabiye" lang="kbp" hreflang="kbp" class="interlanguage-link-target"><span>Kabɩyɛ</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a href="https://kn.wikipedia.org/wiki/%E0%B2%A8%E0%B3%8D%E0%B2%AF%E0%B3%82%E0%B2%9F%E0%B2%A8%E0%B3%8D%E2%80%8D%E0%B2%A8_%E0%B2%9A%E0%B2%B2%E0%B2%A8%E0%B3%86%E0%B2%AF_%E0%B2%A8%E0%B2%BF%E0%B2%AF%E0%B2%AE%E0%B2%97%E0%B2%B3%E0%B3%81" title="ನ್ಯೂಟನ್‍ನ ಚಲನೆಯ ನಿಯಮಗಳು – Kannada" 
+lang="kn" hreflang="kn" class="interlanguage-link-target"><span>ಕನ್ನಡ</span></a></li><li class="interlangu
+age-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%9C%E1%83%98%E1%83%A3%E1%83%A2%E1%83%9D%E1%83%9C%E1%83%98%E1%83%A1_%E1%83%99%E1%83%90%E1%83%9C%E1%83%9D%E1%83%9C%E1%83%94%E1%83%91%E1%83%98" title="ნიუტონის კანონები – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%9D%D1%8C%D1%8E%D1%82%D0%BE%D0%BD_%D0%B7%D0%B0%D2%A3%D0%B4%D0%B0%D1%80%D1%8B" title="Ньютон заңдары – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-gcr mw-list-item"><a href="https://gcr.wikipedia.org/wiki/Lalwa_di_mouvman_di_Newton" title="Lalwa di mouvman di Newton – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target"><span>Kriyòl gwiyannen</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Leges_motus_Newtoni" title="Leges motus Newtoni – Latin" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/%C5%85%C5%ABtona_likumi" title="Ņūtona likumi – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Niutono_d%C4%97sniai" title="Niutono dėsniai – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-li mw-list-item"><a href="https://li.wikipedia.org/wiki/W%C3%A8tte_van_Newton" title="Wètte van Newton – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target"><span>Limburgs</span></a></li><li class="interlanguage-link interwiki-lg mw-list-item"><a href="https://lg.wikipedia.org/wiki/Amateeka_ga_Newton_Ag%27Okuva(Newton%27s_Laws_of_Motion)" title="Amateeka ga Newton Ag&#039;Okuva(Newton&#039;s Laws of Motion) – Ganda" lang="lg" hreflang="lg" class="interlanguage-link-target"><span>Luganda</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Newton_t%C3%B6rv%C3%A9nyei" title="Newton törvényei – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%8A%D1%83%D1%82%D0%BD%D0%BE%D0%B2%D0%B8_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%B8" title="Њутнови закони – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%A8%E0%B5%8D%E0%B4%AF%E0%B5%82%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%86_%E0%B4%9A%E0%B4%B2%E0%B4%A8%E0%B4%A8%E0%B4%BF%E0%B4%AF%E0%B4%AE%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BE" title="ന്യൂട്ടന്റെ ചല
+നനിയമങ്ങൾ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></
+li><li class="interlanguage-link interwiki-mr mw-list-item"><a href="https://mr.wikipedia.org/wiki/%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9F%E0%A4%A8%E0%A4%9A%E0%A5%87_%E0%A4%97%E0%A4%A4%E0%A5%80%E0%A4%9A%E0%A5%87_%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE" title="न्यूटनचे गतीचे नियम – Marathi" lang="mr" hreflang="mr" 
+class="interlanguage-link-target"><span>मराठी</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Hukum-hukum_gerakan_Newton" title="Hukum-hukum gerakan 
+Newton – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-cdo mw-list-item"><a href="https://cdo.wikipedia.org/wiki/Newton_%C3%B4ng-d%C3%B4ng_d%C3%AAng-l%C5%ADk" title="Newton ông-dông dêng-lŭk – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target"><span>Mìng-dĕ̤ng-ngṳ̄</span></a></li><li class="interlangua
+ge-link interwiki-mn mw-list-item"><a href="https://mn.wikipedia.org/wiki/%D0%9D%D1%8C%D1%8E%D1%82%D0%BE%D0%BD%D1%8B_%D1%85%D1%83%D1%83%D0%BB%D0%B8%D1%83%D0%B4" title="Ньютоны хуулиуд – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target"><span>Монгол</span></a></li><li class="interlanguage-link interwiki-my mw-list-item"><a href="https://my.wikipedia.org/wiki/%E1%80%94%E1%80%9A%E1%80%B0%E1%80%90%E1%80%94%E1%80%BA%E1%81%8F_%E1%80%9B%E1%80%BD%E1%80%B1%E1%80%B7%E1%80%9C%E1%80%BB%E1%80%AC%E1%80%B8%E1%80%99%E1%80%BE%E1%80%AF%E1%80%86%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%9B%E1%80%AC_%E1%80%94%E1%80%AD%E1%80%9A%E1%80%AC%E1%80%99%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="နယူတန်၏ ရွေ့လျားမှုဆိုင်ရာ နိယာမများ – Burmese
+" lang="my" hreflang="my" class="interlanguage-link-target"><span>မြန်မာဘာသာ</span></a></li><li class="int
+erlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Wetten_van_Newton" title="Wetten van Newton – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nds-nl mw-list-item"><a href="https://nds-nl.wikipedia.org/wiki/Newton_zien_wetten" title="Newton zien wetten – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target"><span>Nedersaksies</span></a></li><li class="interlanguage-link interwiki-ne mw-list-item"><a href="https://ne.wikipedia.org/wiki/%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%9F%E0%A4%A8%E0%A4%95%E0%A5%8B_%E0%A4%97%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%BE_%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%E0%A4%B9%E0%A4%B0%E0%A5%82" title="न्युटनको गतिका नियमहरू – Nepali" lang="ne" hreflang="ne" class="interlang
+uage-link-target"><span>नेपाली</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a 
+href="https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%B3%E5%8A%9B%E5%AD%A6" title="ニュートン力学 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Newtons_bevegelseslover" title="Newtons bevegelseslover – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Newtons_r%C3%B8rslelover" title="Newtons rørslelover – 
+Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Leis_de_Newton" title="Leis de Newton – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Newtonning_mexanika_qonunlari" title="Newtonning mexanika qonunlari – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha/ўзбекча</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%A8%E0%A8%BF%E0%A8%8A%E0%A8%9F%E0%A8%A8_%E0%A8%A6%E0%A9%87_%E0%A8%97%E0%A8%A4%E0%A9%80_%E0%A8%A6%E0%A9%87_%E0%A8%A8%E0%A8%BF%E0%A8%AF%E0%A8%AE" title="ਨਿਊਟਨ ਦੇ ਗਤੀ ਦੇ ਨਿਯਮ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-targe
+t"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pnb mw-list-item"><a href="https://
+pnb.wikipedia.org/wiki/%D9%86%DB%8C%D9%88%D9%B9%D9%86_%D8%AF%DB%92_%DA%86%D9%84%D9%86_%D8%AF%DB%92_%D9%82%D9%86%D9%88%D9%86" title="نیوٹن دے چلن دے قنون – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target"><span>پنجابی</span></a></li><li class="interlanguage-link interwiki-ps mw-list-item"><a href="https://ps.wikipedia.org/wiki/%D8%AF_%D8%AE%D9%88%DA%81%DA%9A%D8%AA_%D9%BE%D9%87_%D8%A7%DA%93%D9%87_%D8%AF_%D9%86%DB%8C%D9%88%D9%BC%D9%86_%D9%82%D9%88%D8%A7%D9%86%DB%8C%D9%86" title="د خوځښت په اړه د نیوټن قوانین – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target"><span>پښتو</span></a></li><li class="interlanguage-link interwiki-jam mw-list-item"><a href="https://jam.wikipedia.org/wiki/Nyuutan_laa_a_muoshan" title="Nyuutan laa a muoshan – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target"><span>Patois</span></a></li><li class="interlanguage-link interwiki-km mw-list-item"><a href="https://km.wikipedia.org/wiki/%E1%9E%85%E1%9F%92%E1%9E%94%E1%9E%B6%E1%9E%94%E1%9F%8B%E1%9E%85%E1%9E%9B%E1%9E%93%E1%9E%B6%E1%9E%9A%E1%9E%94%E1%9E%9F%E1%9F%8B%E1%9E%89%E1%9E%BC%E1%9E%8F%E1%9E%BB%E1%9E%93" title="ច្បាប់ចលនារបស់ញូតុន – Khmer" lang="km" hreflang="km" class="interlanguage-link-target"><span>ភាសាខ
+្មែរ</span></a></li><li class="interlanguage-link interwiki-pms mw-list-item"><a href="https://pms.wikipedia.org/wiki/Lej_d%C3%ABl_moviment_%C3%ABd_Newton" title="Lej dël moviment ëd Newton – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target"><span>Piemontèis</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Zasady_dynamiki_Newtona" title="Zasady dynamiki Newtona – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Leis_de_Newton" title="Leis de Newton – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Legile_lui_Newton" title="Legile lui Newton – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B_%D0%9D%D1%8C%D1%8E%D1%82%D0%BE%D0%BD%D0%B0" title="Законы Ньютона – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sah mw-list-item"><a 
+href="https://sah.wikipedia.org/wiki/%D0%9D%D1%8C%D1%8E%D1%82%D0%BE%D0%BD_%D1%81%D0%BE%D0%BA%D1%83%D0%BE%D0%BD%D0%BD%D0%B0%D1%80%D0%B0" title="Ньютон сокуоннара – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target"><span>Саха тыла</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Ligjet_e_Njutonit" title="Ligjet e Njutonit – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-scn mw-list-item"><a href="https://scn.wikipedia.org/wiki/Liggi_di_Newton" title="Liggi di Newton 
+– Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target"><span>Sicilianu</span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a href="https://si.wikipedia.org/wiki/%E0%B6%A0%E0%B6%BD%E0%B7%92%E0%B6%AD%E0%B6%BA_%E0%B6%B4%E0%B7%92%E0%B7%85%E0%B7%92%E0%B6%B6%E0%B6%B3_%E0%B6%B1%E0%B7%92%E0%B7%80%E0%B7%8A%E0%B6%A7%E0%B6%B1%E0%B7%8A_%E0%B6%B1%E0%B7%92%E0%B6%BA%E0%B6%B8" title="චලිතය පිළිබඳ නි
+ව්ටන් නියම – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target"><span>සිංහල</span></a></li
+><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Newton%27s_laws_of_motion" title="Newton&#039;s laws of motion – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sd mw-list-item"><a href="https://sd.wikipedia.org/wiki/%D9%86%D9%8A%D9%88%D9%BD%D9%86_%D8%AC%D9%8A_%D8%AD%D8%B1%DA%AA%D8%AA_%D8%AC%D8%A7_%D9%82%D8%A7%D9%86%D9%88%D9%86" title="نيوٽن جي حرڪت جا قانون – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target"><span>سنڌي</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Newtonove_pohybov%C3%A9_z%C3%A1kony" title="Newtonove pohybové zákony – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a 
+href="https://sl.wikipedia.org/wiki/Newtonovi_zakoni_gibanja" title="Newtonovi zakoni gibanja – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%DB%8C%D8%A7%D8%B3%D8%A7%DA%A9%D8%A7%D9%86%DB%8C_%D8%AC%D9%88%D9%88%DA%B5%DB%95%DB%8C_%D9%86%DB%8C%D9%88%D8%AA%D9%86" title="یاساکانی جووڵەی نیوتن – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%8A%D1%83%D1%82%D0%BD%D0%BE%D0%B2%D0%B8_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%B8" title="Њутнови закони – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Newtonovi_zakoni_kretanja" title="Newtonovi zakoni kretanja – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-su mw-list-item"><a href="https://su.wikipedia.org/wiki/Hukum_gerak_Newton" title="Hukum gerak Newton – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target"><span>Sunda</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Newtonin_lait" title="Newtonin lait – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Newtons_r%C3%B6relselagar" title="Newtons rörelselagar – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Mga_batas_ng_mosyon_ni_Newton" title="Mga batas ng mosyon ni Newton – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AE%BF%E0%AE%AF%E0%AF%82%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%A9%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%87%E0%AE%AF%E0%AE%95%E0%AF%8D%E0%AE%95_%E0%AE%B5%E0%AE%BF%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%8D" title="நியூட்
+டனின் இயக்க விதிகள் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span><
+/a></li><li class="interlanguage-link interwiki-shi mw-list-item"><a href="https://shi.wikipedia.org/wiki/Islgan_n_umussu_n_Nyu%E1%B9%ADun" title="Islgan n umussu n Nyuṭun – Tachelhit" lang="shi" hreflang="shi" class="interlanguage-link-target"><span>Taclḥit</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/%D0%9D%D1%8C%D1%8E%D1%82%D0%BE%D0%BD_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BD%D0%B0%D1%80%D1%8B" title="Ньютон законнары – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target"><span>Татарча/tatarça</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wikipedia.org/wiki/%E0%B0%A8%E0%B1%8D%E0%B0%AF%E0%B1%82%E0%B0%9F%E0%B0%A8%E0%B1%8D_%E0%B0%B8%E0%B1%82%E0%B0%A4%E0%B1%8D%E0%B0%B0%E0%B0%BE%E0%B0%B2%E0%B1%81" title="న్యూటన్ సూత్రాలు
+ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class
+="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%8E%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B8%95%E0%B8%B1%E0%B8%99" title="กฎการเคลื่อนที่ของนิวตัน – Thai" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a><
+/li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Newton%27un_hareket_yasalar%C4%B1" title="Newton&#039;un hareket yasaları – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D0%B8_%D0%9D%D1%8C%D1%8E%D1%82%D0%BE%D0%BD%D0%B0" title="Закони Ньютона – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D9%86%DB%8C%D9%88%D9%B9%D9%86_%DA%A9%DB%92_%D9%82%D9%88%D8%A7%D9%86%DB%8C%D9%86_%D8%AD%D8%B1%DA%A9%D8%AA" title="نیوٹن کے قوانین حرکت – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/C%C3%A1c_%C4%91%E1%BB%8Bnh_lu%E1%BA%ADt_v%E1%BB%81_chuy%E1%BB%83n_%C4%91%E1%BB%99ng_c%E1%BB%A7a_Newton" title="Các định luật về chuyển động của Newton – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh-classical mw-list-item"><a href="https://zh-classical.wikipedia.org/wiki/%E7%89%9B%E9%A0%93%E5%AE%9A%E5%BE%8B" title="牛頓定律 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target"><span>文言</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Balaod_nga_mosyon_ha_Newton" title="Balaod nga mosyon ha Newton – Waray" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E7%89%9B%E9%A1%BF%E8%BF%90%E5%8A%A8%E5%AE%9A%E5%BE%8B" title="牛顿运动定律 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-yo mw-list-item"><a href="https://yo.wikipedia.org/wiki/%C3%80w%E1%BB%8Dn_%C3%B2fin_%C3%ACm%C3%BAr%C3%ACn_Newton" title="Àwọn òfin ìmúrìn Newton – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target"><span>Yorùbá</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E7%89%9B%E9%A0%93%E9%81%8B%E5%8B%95%E5%AE%9A%E5%BE%8B" title="牛頓運動定律 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E7%89%9B%E9%A1%BF%E8%BF%90%E5%8A%A8%E5%AE%9A%E5%BE%8B" title="牛顿运动定律 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+                <div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q38433#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+        </div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+        <ul id="footer-info">
+        <li id="footer-info-lastmod"> This page was last edited on 11 August 2022, at 09:24<span class="anonymous-show">&#160;(UTC)</span>.</li>
+        <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+        <ul id="footer-places">
+        <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+        <li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+        <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+        <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+        <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Newton%27s_laws_of_motion&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+        <li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>   
+        <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+        <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+        <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+        <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"2.187","walltime":"2.487","ppvisitednodes":{"value":23318,"limit":1000000},"postexpandincludesize":{"value":359399,"limit":2097152},"templateargumentsize":{"value":14067,"limit":2097152},"expansiondepth":{"value":21,"limit":100},"expensivefunctioncount":{"value":24,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":451255,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1841.332      1 -total"," 47.67%  877.702      2 Template:Reflist"," 19.95%  367.289     61 Template:Rp"," 19.13%  352.215     61 Template:R/superscript"," 16.54%  304.558     57 Template:Cite_journal"," 16.34%  300.910     58 Template:Cite_book","  9.26%  170.529    183 Template:R/where","  9.02%  166.004     18 Template:Refn","  7.15%  131.590     11 Template:Cite_web","  5.59%  102.893      1 Template:Classical_mechanics"]},"scribunto":{"limitreport-timeusage":{"value":"1.069","limit":"10.000"},"limitreport-memusage":{"value":9711463,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"size\"] = \"tiny\",\n}\n","limitreport-profile":[["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::callParserFunction","200","16.9"],["?","180","15.3"],["recursiveClone \u003CmwInit.lua:41\u003E","120","10.2"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::gsub","80","6.8"],["dataWrapper \u003Cmw.lua:669\u003E","80","6.8"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::match","60","5.1"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::setTTL","40","3.4"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::find","40","3.4"],["rawset","40","3.4"],["\u003CModule:No_globals:8\u003E","40","3.4"],["[others]","300","25.4"]]},"cachereport":{"origin":"mw1427","timestamp":"20220811092447","ttl":21600,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Newton's laws of motion","url":"https:\/\/en.wikipedia.org\/wiki\/Newton%27s_laws_of_motion","sameAs":"http:\/\/www.wikidata.org\/entity\/Q38433","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q38433","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-11-11T20:34:01Z","dateModified":"2022-08-11T09:24:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a8\/NASA-Apollo8-Dec24-Earthrise.jpg","headline":"classical formulation of Mechanics by Isaac Newton"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Newton's laws of motion","url":"https:\/\/en.wikipedia.org\/wiki\/Newton%27s_laws_of_motion","sameAs":"http:\/\/www.wikidata.org\/entity\/Q38433","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q38433","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-11-11T20:34:01Z","dateModified":"2022-08-11T09:24:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a8\/NASA-Apollo8-Dec24-Earthrise.jpg","headline":"classical formulation of Mechanics by Isaac Newton"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":206,"wgHostname":"mw1330"});});</script>
+</body>
+</html>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="10.717ex" height="3.176ex" style="vertical-align: -0.671ex;" viewBox="0 -1078.4 4614.1 1367.4" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<title id="MathJax-SVG-1-Title">{\displaystyle {\vec {L}}={\vec {r}}\times {\vec {p}}.}</title>
+<defs aria-hidden="true">
+<path stroke-width="1" id="E1-MJMATHI-4C" d="M228 637Q194 637 192 641Q191 643 191 649Q191 673 202 682Q204 
+683 217 683Q271 680 344 680Q485 680 506 683H518Q524 677 524 674T522 656Q517 641 513 637H475Q406 636 394 628Q387 624 380 600T313 336Q297 271 279 198T252 88L243 52Q243 48 252 48T311 46H328Q360 46 379 47T428 54T478 
+72T522 106T564 161Q580 191 594 228T611 270Q616 273 628 273H641Q647 264 647 262T627 203T583 83T557 9Q555 4 
+553 3T537 0T494 -1Q483 -1 418 -1T294 0H116Q32 0 32 10Q32 17 34 24Q39 43 44 45Q48 46 59 46H65Q92 46 125 49Q139 52 144 61Q147 65 216 339T285 628Q285 635 228 637Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-20D7" d="M-123 694Q-123 702 -118 708T-103 714Q-93 714 -88 706T-80 687T-67 660T-40 633Q-29 626 -29 615Q-29 606 -36 600T-53 590T-83 571T-121 531Q-135 516 -143 516T-157 522T-163 
+536T-152 559T-129 584T-116 595H-287L-458 596Q-459 597 -461 599T-466 602T-469 607T-471 615Q-471 622 -458 635H-99Q-123 673 -123 694Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 
+327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path> 
+<path stroke-width="1" id="E1-MJMATHI-72" d="M21 287Q22 290 23 295T28 317T38 348T53 381T73 411T99 433T132 
+442Q161 442 183 430T214 408T225 388Q227 382 228 382T236 389Q284 441 347 441H350Q398 441 422 400Q430 381 430 363Q430 333 417 315T391 292T366 288Q346 288 334 299T322 328Q322 376 378 392Q356 405 342 405Q286 405 239 
+331Q229 315 224 298T190 165Q156 25 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 114 189T154 366Q154 405 128 405Q107 405 92 377T68 316T57 280Q55 278 41 278H27Q21 284 21 287Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-D7" d="M630 29Q630 9 609 9Q604 9 587 25T493 118L389 222L284 117Q178 13 175 11Q171 9 168 9Q160 9 154 15T147 29Q147 36 161 51T255 146L359 250L255 354Q174 435 161 449T147 471Q147 480 153 485T168 490Q173 490 175 489Q178 487 284 383L389 278L493 382Q570 459 587 475T609 491Q630 491 630 471Q630 464 620 453T522 355L418 250L522 145Q606 61 618 48T630 29Z"></path>
+<path stroke-width="1" id="E1-MJMATHI-70" d="M23 287Q24 290 25 295T30 317T40 348T55 381T75 411T101 433T134 442Q209 442 230 378L240 387Q302 442 358 442Q423 442 460 395T497 281Q497 173 421 82T249 -10Q227 -10 210 -4Q199 1 187 11T168 28L161 36Q160 35 139 -51T118 -138Q118 -144 126 -145T163 -148H188Q194 -155 194 -157T191 -175Q188 -187 185 -190T172 -194Q170 -194 161 -194T127 -193T65 -192Q-5 -192 -24 -194H-32Q-39 -187 -39 -183Q-37 -156 -26 -148H-6Q28 -147 33 -136Q36 -130 94 103T155 350Q156 355 156 364Q156 405 131 405Q109 405 94 377T71 316T59 280Q57 278 43 278H29Q23 284 23 287ZM178 102Q200 26 252 26Q282 26 310 49T356 107Q374 141 392 215T411 325V331Q411 405 350 405Q339 405 328 402T306 393T286 380T269 365T254 350T243 336T235 326L232 322Q232 321 229 308T218 264T204 212Q178 106 178 102Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-2E" d="M78 60Q78 84 95 102T138 120Q162 120 180 104T199 61Q199 36 182 
+18T139 0T96 17T78 60Z"></path>
+</defs>
+<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)" aria-hidden="true">
+ <use xlink:href="#E1-MJMATHI-4C" x="0" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-20D7" x="603" y="276"></use>
+ <use xlink:href="#E1-MJMAIN-3D" x="959" y="0"></use>
+<g transform="translate(2015,0)">
+ <use xlink:href="#E1-MJMATHI-72" x="9" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-20D7" x="526" y="36"></use>
+</g>
+ <use xlink:href="#E1-MJMAIN-D7" x="2764" y="0"></use>
+<g transform="translate(3765,0)">
+ <use xlink:href="#E1-MJMATHI-70" x="0" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-20D7" x="570" y="36"></use>
+</g>
+ <use xlink:href="#E1-MJMAIN-2E" x="4335" y="0"></use>
+</g>
+</svg>
+{
+  count: 1,
+  value: {
+    Message: "The requested resource does not support http method 'GET'."
+  }
+}
+Method Not Allowed
+
+{
+  count: 1,
+  value: {
+    Message: "The requested resource does not support http method 'GET'."
+  }
+}
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="18.843ex" height="5.676ex" style="vertical-align: -2.171ex;" viewBox="0 -1508.9 8113 2443.8" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" 
+aria-labelledby="MathJax-SVG-1-Title">
+<title id="MathJax-SVG-1-Title">{\displaystyle g={\frac {GM}{r^{2}}}\approx 9.8{\frac {\rm {m}}{{\rm {s}}^{2}}}.}</title>
+<defs aria-hidden="true">
+<path stroke-width="1" id="E1-MJMATHI-67" d="M311 43Q296 30 267 15T206 0Q143 0 105 45T66 160Q66 265 143 353T314 442Q361 442 401 394L404 398Q406 401 409 404T418 412T431 419T447 422Q461 422 470 413T480 394Q480 379 
+423 152T363 -80Q345 -134 286 -169T151 -205Q10 -205 10 -137Q10 -111 28 -91T74 -71Q89 -71 102 -80T116 -111Q116 -121 114 -130T107 -144T99 -154T92 -162L90 -164H91Q101 -167 151 -167Q189 -167 211 -155Q234 -144 254 -122T282 -75Q288 -56 298 -13Q311 35 311 43ZM384 328L380 339Q377 350 375 354T369 368T359 382T346 393T328 402T306 405Q262 405 221 352Q191 313 171 233T151 117Q151 38 213 38Q269 38 323 108L331 118L384 328Z"></path>      
+<path stroke-width="1" id="E1-MJMAIN-3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 
+327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path> 
+<path stroke-width="1" id="E1-MJMATHI-47" d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 
+694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q492 659 471 656T418 643T357 615T294 567T236 496T189 394T158 260Q156 242 156 221Q156 
+173 170 136T206 79T256 45T308 28T353 24Q407 24 452 47T514 106Q517 114 529 161T541 214Q541 222 528 224T468 
+227H431Q425 233 425 235T427 254Q431 267 437 273H454Q494 271 594 271Q634 271 659 271T695 272T707 272Q721 272 721 263Q721 261 719 249Q714 230 709 228Q706 227 694 227Q674 227 653 224Q646 221 643 215T629 164Q620 131 
+614 108Q589 6 586 3Q584 1 581 1Q571 1 553 21T530 52Q530 53 528 52T522 47Q448 -22 322 -22Q201 -22 126 55T50 252Z"></path>
+<path stroke-width="1" id="E1-MJMATHI-4D" d="M289 629Q289 635 232 637Q208 637 201 638T194 648Q194 649 196 
+659Q197 662 198 666T199 671T201 676T203 679T207 681T212 683T220 683T232 684Q238 684 262 684T307 683Q386 683 398 683T414 678Q415 674 451 396L487 117L510 154Q534 190 574 254T662 394Q837 673 839 675Q840 676 842 678T846 681L852 683H948Q965 683 988 683T1017 684Q1051 684 1051 673Q1051 668 1048 656T1045 643Q1041 637 1008 637Q968 636 957 634T939 623Q936 618 867 340T797 59Q797 55 798 54T805 50T822 48T855 46H886Q892 37 892 35Q892 
+19 885 5Q880 0 869 0Q864 0 828 1T736 2Q675 2 644 2T609 1Q592 1 592 11Q592 13 594 25Q598 41 602 43T625 46Q652 46 685 49Q699 52 704 61Q706 65 742 207T813 490T848 631L654 322Q458 10 453 5Q451 4 449 3Q444 0 433 0Q418 0 415 7Q413 11 374 317L335 624L267 354Q200 88 200 79Q206 46 272 46H282Q288 41 289 37T286 19Q282 3 278 1Q274 0 267 0Q265 0 255 0T221 1T157 2Q127 2 95 1T58 0Q43 0 39 2T35 11Q35 13 38 25T43 40Q45 46 65 46Q135 46 154 86Q158 92 223 354T289 629Z"></path>
+<path stroke-width="1" id="E1-MJMATHI-72" d="M21 287Q22 290 23 295T28 317T38 348T53 381T73 411T99 433T132 
+442Q161 442 183 430T214 408T225 388Q227 382 228 382T236 389Q284 441 347 441H350Q398 441 422 400Q430 381 430 363Q430 333 417 315T391 292T366 288Q346 288 334 299T322 328Q322 376 378 392Q356 405 342 405Q286 405 239 
+331Q229 315 224 298T190 165Q156 25 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 114 189T154 366Q154 405 128 405Q107 405 92 377T68 316T57 280Q55 278 41 278H27Q21 284 21 287Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 
+244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-2248" d="M55 319Q55 360 72 393T114 444T163 472T205 482Q207 482 213 482T223 483Q262 483 296 468T393 413L443 381Q502 346 553 346Q609 346 649 375T694 454Q694 465 698 474T708 483Q722 483 722 452Q722 386 675 338T555 289Q514 289 468 310T388 357T308 404T224 426Q164 426 125 393T83 318Q81 
+289 69 289Q55 289 55 319ZM55 85Q55 126 72 159T114 210T163 238T205 248Q207 248 213 248T223 249Q262 249 296 
+234T393 179L443 147Q502 112 553 112Q609 112 649 141T694 220Q694 249 708 249T722 217Q722 153 675 104T555 55Q514 55 468 76T388 123T308 170T224 192Q164 192 125 159T83 84Q80 55 69 55Q55 55 55 85Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-39" d="M352 287Q304 211 232 211Q154 211 104 270T44 396Q42 412 42 436V444Q42 537 111 606Q171 666 243 666Q245 666 249 666T257 665H261Q273 665 286 663T323 651T370 619T413 560Q456 472 456 334Q456 194 396 97Q361 41 312 10T208 -22Q147 -22 108 7T68 93T121 149Q143 149 158 135T173 96Q173 78 164 65T148 49T135 44L131 43Q131 41 138 37T164 27T206 22H212Q272 22 313 86Q352 142 352 280V287ZM244 248Q292 248 321 297T351 430Q351 508 343 542Q341 552 337 562T323 588T293 615T246 625Q208 625 181 598Q160 576 154 546T147 441Q147 358 152 329T172 282Q197 248 244 248Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-2E" d="M78 60Q78 84 95 102T138 120Q162 120 180 104T199 61Q199 36 182 
+18T139 0T96 17T78 60Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-38" d="M70 417T70 494T124 618T248 666Q319 666 374 624T429 515Q429 485 418 459T392 417T361 389T335 371T324 363L338 354Q352 344 366 334T382 323Q457 264 457 174Q457 95 399 37T249 -22Q159 -22 101 29T43 155Q43 263 172 335L154 348Q133 361 127 368Q70 417 70 494ZM286 386L292 390Q298 394 301 396T311 403T323 413T334 425T345 438T355 454T364 471T369 491T371 513Q371 556 342 586T275 624Q268 625 242 625Q201 625 165 599T128 534Q128 511 141 492T167 463T217 431Q224 426 228 424L286 386ZM250 21Q308 21 350 55T392 137Q392 154 387 169T375 194T353 216T330 234T301 253T274 270Q260 279 244 289T218 306L210 311Q204 311 181 294T133 239T107 157Q107 98 150 60T250 21Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-6D" d="M41 46H55Q94 46 102 60V68Q102 77 102 91T102 122T103 161T103 203Q103 234 103 269T102 328V351Q99 370 88 376T43 385H25V408Q25 431 27 431L37 432Q47 433 65 434T102 436Q119 437 138 438T167 441T178 442H181V402Q181 364 182 364T187 369T199 384T218 402T247 421T285 437Q305 442 336 442Q351 442 364 440T387 434T406 426T421 417T432 406T441 395T448 384T452 374T455 366L457 361L460 365Q463 369 466 373T475 384T488 397T503 410T523 422T546 432T572 439T603 442Q729 442 740 329Q741 322 741 190V104Q741 66 
+743 59T754 49Q775 46 803 46H819V0H811L788 1Q764 2 737 2T699 3Q596 3 587 0H579V46H595Q656 46 656 62Q657 64 
+657 200Q656 335 655 343Q649 371 635 385T611 402T585 404Q540 404 506 370Q479 343 472 315T464 232V168V108Q464 78 465 68T468 55T477 49Q498 46 526 46H542V0H534L510 1Q487 2 460 2T422 3Q319 3 310 0H302V46H318Q379 46 379 62Q380 64 380 200Q379 335 378 343Q372 371 358 385T334 402T308 404Q263 404 229 370Q202 343 195 315T187 232V168V108Q187 78 188 68T191 55T200 49Q221 46 249 46H265V0H257L234 1Q210 2 183 2T145 3Q42 3 33 0H25V46H41Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-73" d="M295 316Q295 356 268 385T190 414Q154 414 128 401Q98 382 98 349Q97 344 98 336T114 312T157 287Q175 282 201 278T245 269T277 256Q294 248 310 236T342 195T359 133Q359 71 321 
+31T198 -10H190Q138 -10 94 26L86 19L77 10Q71 4 65 -1L54 -11H46H42Q39 -11 33 -5V74V132Q33 153 35 157T45 162H54Q66 162 70 158T75 146T82 119T101 77Q136 26 198 26Q295 26 295 104Q295 133 277 151Q257 175 194 187T111 210Q75 227 54 256T33 318Q33 357 50 384T93 424T143 442T187 447H198Q238 447 268 432L283 424L292 431Q302 440 314 448H322H326Q329 448 335 442V310L329 304H301Q295 310 295 316Z"></path>
+</defs>
+<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)" aria-hidden="true">
+ <use xlink:href="#E1-MJMATHI-67" x="0" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-3D" x="758" y="0"></use>
+<g transform="translate(1814,0)">
+<g transform="translate(120,0)">
+<rect stroke="none" width="1958" height="60" x="0" y="220"></rect>
+<g transform="translate(60,676)">
+ <use xlink:href="#E1-MJMATHI-47" x="0" y="0"></use>
+ <use xlink:href="#E1-MJMATHI-4D" x="786" y="0"></use>
+</g>
+<g transform="translate(526,-780)">
+ <use xlink:href="#E1-MJMATHI-72" x="0" y="0"></use>
+ <use transform="scale(0.707)" xlink:href="#E1-MJMAIN-32" x="638" y="408"></use>
+</g>
+</g>
+</g>
+ <use xlink:href="#E1-MJMAIN-2248" x="4290" y="0"></use>
+<g transform="translate(5346,0)">
+ <use xlink:href="#E1-MJMAIN-39"></use>
+ <use xlink:href="#E1-MJMAIN-2E" x="500" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-38" x="779" y="0"></use>
+</g>
+<g transform="translate(6626,0)">
+<g transform="translate(120,0)">
+<rect stroke="none" width="968" height="60" x="0" y="220"></rect>
+ <use xlink:href="#E1-MJMAIN-6D" x="67" y="676"></use>
+<g transform="translate(60,-780)">
+ <use xlink:href="#E1-MJMAIN-73" x="0" y="0"></use>
+ <use transform="scale(0.707)" xlink:href="#E1-MJMAIN-32" x="557" y="408"></use>
+</g>

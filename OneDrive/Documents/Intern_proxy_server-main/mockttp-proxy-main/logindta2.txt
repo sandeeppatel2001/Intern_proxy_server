@@ -1,0 +1,64 @@
+{
+  id: 'd125fa9e-75dc-4ea7-9791-e6660725c302',
+  matchedRuleId: '9922907c-1e24-4d26-886d-45f130d023e7',
+  protocol: 'https',
+  httpVersion: '1.1',
+  method: 'GET',
+  url: 'https://github.com/login',
+  path: '/login',
+  remoteIpAddress: '::ffff:127.0.0.1',
+  remotePort: 51551,
+  headers: {
+    host: 'github.com',
+    connection: 'keep-alive',
+    'cache-control': 'max-age=0',
+    'upgrade-insecure-requests': '1',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/104.0.0.0 Safari/537.36',
+    accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'sec-fetch-site': 'same-origin',
+    'sec-fetch-mode': 'navigate',
+    'sec-fetch-user': '?1',
+    'sec-fetch-dest': 'document',
+    'sec-ch-ua': '"Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"Windows"',
+    referer: 'https://github.com/login',
+    'accept-encoding': 'gzip, deflate, br',
+    'accept-language': 'en-US,en;q=0.9,hi;q=0.8,la;q=0.7',
+    cookie: '_octo=GH1.1.1650289925.1636526248; _device_id=dda067b7ee7421c1cbe1d3c55ec55e86; WMF-Last-Access=06-Aug-2022; has_recent_activity=1; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; preferred_color_mode=light; tz=Asia%2FCalcutta; tz=Asia%2FCalcutta; user_session=rNeKI82tAmX2uoBc8SxJsdZ3OJgP_Nf387y-gTHFR9ZhI41X; __Host-user_session_same_site=rNeKI82tAmX2uoBc8SxJsdZ3OJgP_Nf387y-gTHFR9ZhI41X; logged_in=yes; dotcom_user=sandeeppatel2001; _gh_sess=9LgLNxJEOHFiTDcaSCxVzGsTiB3f2FS1bRY7%2FzuisLwS5MZgseDr6z%2BtrJ4XWqps9NawDLE88VU7BdmaXL%2F9jKVIqkIkOtDzJHfQMIYwgXc9ScE0ZN2f3o2%2BWeX2PJ1wR%2BtVo1T7BxHGCnAWO8%2Fy6cOltwP8girfDBF9VRPgY2OfIlW36XslABt%2FDaT5th2VLLyeUV3hcUznVjhGtuPnAiLdwNF%2FiR%2F5%2Fmcyyn0d0KiKaYIKW9dUJCpuBb5muz4UTV7%2FiHih6bbW2Eq8893zqLhzSKnS5GNP%2BjB5lLUGLH1y5%2BJ5HRSuX8adkdSZhW9KNbwe6z2etZuNvaIbFmWsmxU0vA68dlKKogorxU5L6Jnxp%2FVZctn8m%2B16AFO1fHVi082BMDfwCmJH9Yehfnjh5zulrdCrI1ODZhfAvH156nRMz6zeCtPKZAX9FqGY2dLAphwJg4meaosDsfDr18OuF9Fyeev6dcg6nuQTWazy1Nq8Vu8bdLmQTAGO883jx%2ByJD8qV3lUusDeZgyYnyf1KqtDUDsiLtNUO7fTmS4TUkQEP2CTb7ahjRKkGkqo3hIoqWbetN7t98204FPVNoOtfCPgAtR0VWBIuki8lkI2BMsrNKStaRerhpYBPibymLyeCVOOGmLv5D1VH2%2FLLIG9gfKf5RY0HAVImxw1qVi64Y3uKqtH0LR6NUfPPrvnpN5wfT6mX46KePpeJb6sYvkG3tAbPmXErueRCffPKXF2ZpOgG4yG4rvSNWP3q1humbdUjeaqCgxIWc20nKiiYt8z%2BBclOJxCySHb2KbuO1IOxSmhdW4%2FI%2B3ZXBy0WN5vuiXF987QD9JQfpb5ARFHzdk170ffjovJzdAIhe8Td9Q%3D%3D--f7xzCOQ%2FE62YMFyq--Vk3hr4x2aC3%2B3PnZIo7HHg%3D%3D'    
+  },
+  rawHeaders: [
+    [ 'Host', 'github.com' ],
+    [ 'Connection', 'keep-alive' ],
+    [ 'Cache-Control', 'max-age=0' ],
+    [ 'Upgrade-Insecure-Requests', '1' ],
+    [
+      'User-Agent',
+      'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36'
+    ],
+    [
+      'Accept',
+      'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    ],
+    [ 'Sec-Fetch-Site', 'same-origin' ],
+    [ 'Sec-Fetch-Mode', 'navigate' ],
+    [ 'Sec-Fetch-User', '?1' ],
+    [ 'Sec-Fetch-Dest', 'document' ],
+    [
+      'sec-ch-ua',
+      '"Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"'
+    ],
+    [ 'sec-ch-ua-mobile', '?0' ],
+    [ 'sec-ch-ua-platform', '"Windows"' ],
+    [ 'Referer', 'https://github.com/login' ],
+    [ 'Accept-Encoding', 'gzip, deflate, br' ],
+    [ 'Accept-Language', 'en-US,en;q=0.9,hi;q=0.8,la;q=0.7' ],
+    [
+      'Cookie',
+      '_octo=GH1.1.1650289925.1636526248; _device_id=dda067b7ee7421c1cbe1d3c55ec55e86; WMF-Last-Access=06-Aug-2022; has_recent_activity=1; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; preferred_color_mode=light; tz=Asia%2FCalcutta; tz=Asia%2FCalcutta; user_session=rNeKI82tAmX2uoBc8SxJsdZ3OJgP_Nf387y-gTHFR9ZhI41X; __Host-user_session_same_site=rNeKI82tAmX2uoBc8SxJsdZ3OJgP_Nf387y-gTHFR9ZhI41X; logged_in=yes; dotcom_user=sandeeppatel2001; _gh_sess=9LgLNxJEOHFiTDcaSCxVzGsTiB3f2FS1bRY7%2FzuisLwS5MZgseDr6z%2BtrJ4XWqps9NawDLE88VU7BdmaXL%2F9jKVIqkIkOtDzJHfQMIYwgXc9ScE0ZN2f3o2%2BWeX2PJ1wR%2BtVo1T7BxHGCnAWO8%2Fy6cOltwP8girfDBF9VRPgY2OfIlW36XslABt%2FDaT5th2VLLyeUV3hcUznVjhGtuPnAiLdwNF%2FiR%2F5%2Fmcyyn0d0KiKaYIKW9dUJCpuBb5muz4UTV7%2FiHih6bbW2Eq8893zqLhzSKnS5GNP%2BjB5lLUGLH1y5%2BJ5HRSuX8adkdSZhW9KNbwe6z2etZuNvaIbFmWsmxU0vA68dlKKogorxU5L6Jnxp%2FVZctn8m%2B16AFO1fHVi082BMDfwCmJH9Yehfnjh5zulrdCrI1ODZhfAvH156nRMz6zeCtPKZAX9FqGY2dLAphwJg4meaosDsfDr18OuF9Fyeev6dcg6nuQTWazy1Nq8Vu8bdLmQTAGO883jx%2ByJD8qV3lUusDeZgyYnyf1KqtDUDsiLtNUO7fTmS4TUkQEP2CTb7ahjRKkGkqo3hIoqWbetN7t98204FPVNoOtfCPgAtR0VWBIuki8lkI2BMsrNKStaRerhpYBPibymLyeCVOOGmLv5D1VH2%2FLLIG9gfKf5RY0HAVImxw1qVi64Y3uKqtH0LR6NUfPPrvnpN5wfT6mX46KePpeJb6sYvkG3tAbPmXErueRCffPKXF2ZpOgG4yG4rvSNWP3q1humbdUjeaqCgxIWc20nKiiYt8z%2BBclOJxCySHb2KbuO1IOxSmhdW4%2FI%2B3ZXBy0WN5vuiXF987QD9JQfpb5ARFHzdk170ffjovJzdAIhe8Td9Q%3D%3D--f7xzCOQ%2FE62YMFyq--Vk3hr4x2aC3%2B3PnZIo7HHg%3D%3D'
+    ]
+  ],
+  tags: [],
+  timingEvents: { startTime: 1661629673426, startTimestamp: 20273.2594999969 }
+}

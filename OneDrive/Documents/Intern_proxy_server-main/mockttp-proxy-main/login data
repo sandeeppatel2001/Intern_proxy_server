@@ -1,0 +1,16 @@
+[Object: null prototype] {
+  commit: 'Sign in',
+  authenticity_token: 'PmYXVN4vYPpDkoHwfmHIO_uofrmmGFmp8-gXiFYgXqoJx3gxCYt5cxwCwSV54r1uR2K8ipHpgXkxq0zUEfGvjQ',
+  login: 'sandeeppatel2001',
+  password: 'Tesla@261600',
+  trusted_device: '',
+  'webauthn-support': 'supported',
+  'webauthn-iuvpaa-support': 'unsupported',
+  return_to: 'https://github.com/login',
+  allow_signup: '',
+  client_id: '',
+  integration: '',
+  required_field_a27a: '',
+  timestamp: '1661249754464',
+  timestamp_secret: '1ab85682bd701c20214c2419e4e214e76383e78b95da1a0cd064dcf219e93bba'
+}

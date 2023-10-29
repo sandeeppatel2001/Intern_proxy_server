@@ -1,0 +1,29 @@
+{
+  "name": "mockttp-proxy-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index7_final.js",
+    "test": "node index7_final"
+  },
+  "author": "Tim Perry <tim@httptoolkit.tech>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.18.1",
+    "global-agent": "^3.0.0",
+    "graphql-tools": "^8.3.0",
+    "http-server-mock": "^0.2.1",
+    "mocha": "^10.0.0",
+    "mockttp": "^3.0.0",
+    "node-fetch": "^2.6.6",
+    "nodemon": "^2.0.20",
+    "open": "^8.0.6",
+    "request": "^2.88.2",
+    "superagent": "^8.0.0",
+    "tmp-promise": "^3.0.2"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.2"
+  }
+}

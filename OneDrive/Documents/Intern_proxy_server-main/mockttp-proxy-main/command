@@ -1,0 +1,1 @@
+ certutil -addstore "Root" "C:\Users\Sandeep\OneDrive\Documents\mockttp-proxy-demo-main\a4.der"

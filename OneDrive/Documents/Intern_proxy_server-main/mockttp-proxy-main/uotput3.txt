@@ -1,0 +1,16 @@
+{"error":"Couldn’t authenticate you"}
+
+[{"reset":null,"balanceFormatted":"₹ 0.00","end":null,"service":"pstn","start":null,"href":"/users/live:.cid.eb2b68159975bc5/services/pstn","active":false,"attributes":{"currency":"INR"},"balance":0,"id":"pstn"},{"reset":null,"end":"2023-04-01T15:54:28+00:00","service":"pstn_transfer","start":"2022-04-01T15:54:28+00:00","href":"/users/live:.cid.eb2b68159975bc5/services/pstn_transfer","active":true,"id":"pstn_transfer"}] 
+↕�Z
+�☻
+fZ:ADqtAZw2Oxn8YUi2+TA2+3kbHS8Lw73BS5nFYXG8MXbFhAtDT/6AaWHJKI5W2NB6CNp91Yb8uUyNIwbdFPzD9L9vvWx2RhCIJw== �������☻(���Ϭ00�����/:☼LAPTOP-USTE217K�☺�☺f��↑b
+↑aOPJqaz77bztiI9+nnNnzg==↕F↕͕��♥►���������☺↑☺ Ε��♥ ����♥ ����♥ ����♥ ����♥→☼LAPTOP-USTE217K ☺�☺∟BPzJwfNVHC
+7xaU8Qpr8JBR786ek=
+�☺
+fZ:ADqtAZxm2uoiuPS9Ph3BubH97dQfghBAWEaXNarYMaOPBzHjtefKbcdbsUNm5uwunmL9qERJQKIeS6Z30bEhxh6mfUupAcQyRQ== ٺ�����☻(�טϬ00�����/:▬login|sandeeppatel2001�☺�☺/��☼+
+♣login↕►sandeeppatel2001↑�Ӆԃ��↨↑�����↨�☺∟AgeqdTqewXuw4aWlPk6uuynh8dw=
+�☼
+fZ:ADqtAZw2Oxn8YUi2+TA2+3kbHS8L3X4NzFUgX2iiCuG73sSYGqnafh7XyYVaKVvbOOJHYnNl3dK0hcKyCspmx80PR4ppmHgqoQ== ����↑�☻(�יϬ00Ă�ͬ0:☼LAPTOP-USTE217K�☺�☺�
+����♥►͕��♥↑ ♠(2:�☺↕‼https://github.com/→↑https://github.com/login"♠GitHub0@�☺Hӏ�ά0P☺X`hpx���֪��↨�☺4https:/
+/github.githubassets.com/favicons/favicon.svg�☺�☺�☺�☺♠�☺☺�☺���é��↨�☺�������↨�☺ƭ�����↨�☺▲
+‼https://github.com/►���ά0↑�☺☻en:�☻↕‼https://github.com/→‼https://github.com/"1GitHub: Where the world builds software · GitHub0@�☺H���ά0PX`hpx���ت��↨�☺4https://github.githubassets.com/favicons/favicon.svg�☺�☺�☺♠�☺☺�☺䡾ت��↨�☺�������↨�☺���é��↨�☺▲

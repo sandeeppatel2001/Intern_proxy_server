@@ -1,0 +1,70 @@
+Promise { <pending> }
+Failed to handle request: Cannot read properties of undefined (reading 'json')
+[Object: null prototype] {
+  '--': '====2xbm98fvnsnw=====\r\n' +
+    'content-type: application/http\r\n' +
+    'content-transfer-encoding: binary\r\n' +
+    '\r\n' +
+    'GET /drive/v2internal/files/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag?openDrive=false',
+  reason: [ '302', '302' ],
+  syncType: [ '0', '0' ],
+  errorRecovery: [ 'false', 'false' ],
+  fields: [
+    'kind,modifiedDate,containsUnsubscribedChildren,pairedDocType,hasAppsScriptAddOn,modifiedByMeDate,lastViewedByMeDate,owners(kind,permissionId,displayName,picture,emailAddress,domain,id),hasThumbnail,thumbnailVersion,title,id,resourceKey,shared,sharedWithMeDate,userPermission(role),explicitlyTrashed,mimeType,subscribed,fileExtension,primarySyncParentId,recency,recencyReason,version,actionItems,teamDriveId,templateData(description,category,galleryState),hasAugmentedPermissions,primaryDomainName,organizationDisplayName,passivelySubscribed,parents(id),capabilities(canShareChildFiles,canShareChildFolders,canDownload,canEdit,canShare,canTrash,canReadTeamDrive),labels(starred,trashed,restricted)',
+    'kind,modifiedDate,containsUnsubscribedChildren,pairedDocType,hasAppsScriptAddOn,modifiedByMeDate,lastViewedByMeDate,owners(kind,permissionId,displayName,picture,emailAddress,domain,id),hasThumbnail,thumbnailVersion,title,id,resourceKey,shared,sharedWithMeDate,userPermission(role),explicitlyTrashed,mimeType,subscribed,fileExtension,primarySyncParentId,recency,recencyReason,version,actionItems,teamDriveId,templateData(description,category,galleryState),hasAugmentedPermissions,primaryDomainName,organizationDisplayName,passivelySubscribed,parents(id),capabilities(canShareChildFiles,canShareChildFolders,canDownload,canEdit,canShare,canTrash,canReadTeamDrive),labels(starred,trashed,restricted)'
+  ],
+  supportsTeamDrives: [ 'true', 'true' ],
+  retryCount: [ '5', '5' ],
+  msSinceLastAttempt: [ '11', '11' ],
+  key: [
+    'AIzaSyDrRZPb_oNAJLpNm167axWK5i85cuYG_HQ HTTP/1.1\r\n' +
+      'X-Goog-Drive-Client-Version: docs.docs-offline_20220816.00_p0\r\n' +
+      'authorization: SAPISIDHASH 1661249681_9615db04f8c90411aca38925b8c18795ddbf1047_u\r\n' +
+      '\r\n' +
+      '--=====2xbm98fvnsnw=====\r\n' +
+      'content-type: application/http\r\n' +
+      'content-transfer-encoding: binary\r\n' +
+      '\r\n' +
+      'GET /drive/v2internal/files/1AOXV76qKbJe9xHNqF9o00Kuj-1CKbnJ6LHCgIYIaKsQ?openDrive=false',
+    'AIzaSyDrRZPb_oNAJLpNm167axWK5i85cuYG_HQ HTTP/1.1\r\n' +
+      'X-Goog-Drive-Client-Version: docs.docs-offline_20220816.00_p0\r\n' +
+      'authorization: SAPISIDHASH 1661249681_9615db04f8c90411aca38925b8c18795ddbf1047_u\r\n' +
+      '\r\n' +
+      '--=====2xbm98fvnsnw=====--\r\n'
+  ]
+}
+Promise { <pending> }
+Failed to handle request: Cannot read properties of undefined (reading 'json')
+[Object: null prototype] {
+  '--': '====9v1cuj7nmzk=====\r\n' +
+    'content-type: application/http\r\n' +
+    'content-transfer-encoding: binary\r\n' +
+    '\r\n' +
+    'GET /drive/v2internal/files/1AOXV76qKbJe9xHNqF9o00Kuj-1CKbnJ6LHCgIYIaKsQ?openDrive=false',
+  reason: [ '302', '302' ],
+  syncType: [ '0', '0' ],
+  errorRecovery: [ 'false', 'false' ],
+  fields: [
+    'kind,modifiedDate,containsUnsubscribedChildren,pairedDocType,hasAppsScriptAddOn,modifiedByMeDate,lastViewedByMeDate,owners(kind,permissionId,displayName,picture,emailAddress,domain,id),hasThumbnail,thumbnailVersion,title,id,resourceKey,shared,sharedWithMeDate,userPermission(role),explicitlyTrashed,mimeType,subscribed,fileExtension,primarySyncParentId,recency,recencyReason,version,actionItems,teamDriveId,templateData(description,category,galleryState),hasAugmentedPermissions,primaryDomainName,organizationDisplayName,passivelySubscribed,parents(id),capabilities(canShareChildFiles,canShareChildFolders,canDownload,canEdit,canShare,canTrash,canReadTeamDrive),labels(starred,trashed,restricted)',
+    'kind,modifiedDate,containsUnsubscribedChildren,pairedDocType,hasAppsScriptAddOn,modifiedByMeDate,lastViewedByMeDate,owners(kind,permissionId,displayName,picture,emailAddress,domain,id),hasThumbnail,thumbnailVersion,title,id,resourceKey,shared,sharedWithMeDate,userPermission(role),explicitlyTrashed,mimeType,subscribed,fileExtension,primarySyncParentId,recency,recencyReason,version,actionItems,teamDriveId,templateData(description,category,galleryState),hasAugmentedPermissions,primaryDomainName,organizationDisplayName,passivelySubscribed,parents(id),capabilities(canShareChildFiles,canShareChildFolders,canDownload,canEdit,canShare,canTrash,canReadTeamDrive),labels(starred,trashed,restricted)'
+  ],
+  supportsTeamDrives: [ 'true', 'true' ],
+  retryCount: [ '6', '6' ],
+  msSinceLastAttempt: [ '11', '11' ],
+  key: [
+    'AIzaSyDrRZPb_oNAJLpNm167axWK5i85cuYG_HQ HTTP/1.1\r\n' +
+      'X-Goog-Drive-Client-Version: docs.docs-offline_20220816.00_p0\r\n' +
+      'authorization: SAPISIDHASH 1661249681_9615db04f8c90411aca38925b8c18795ddbf1047_u\r\n' +
+      '\r\n' +
+      '--=====9v1cuj7nmzk=====\r\n' +
+      'content-type: application/http\r\n' +
+      'content-transfer-encoding: binary\r\n' +
+      '\r\n' +
+      'GET /drive/v2internal/files/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag?openDrive=false',
+    'AIzaSyDrRZPb_oNAJLpNm167axWK5i85cuYG_HQ HTTP/1.1\r\n' +
+      'X-Goog-Drive-Client-Version: docs.docs-offline_20220816.00_p0\r\n' +
+      'authorization: SAPISIDHASH 1661249681_9615db04f8c90411aca38925b8c18795ddbf1047_u\r\n' +
+      '\r\n' +
+      '--=====9v1cuj7nmzk=====--\r\n'
+  ]
+}
