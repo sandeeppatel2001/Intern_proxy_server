@@ -36,6 +36,28 @@ server
 // Forcibly close any connection if a POST request is sent:
 server.post().thenCloseConnection();
 ```
+
+This defines a few different rules for specific requests. Try viewing Google.com for example (it'll timeout) or visiting GitHub (it'll give you Wikipedia instead).
+
+This only works for the specific traffic that's matched. If you'd like to proxy most traffic as normal, so the internet basically works but only one or two things are changed, then:
+
+- Define your specific rules, as above
+- Include a `.always()` specifier on each one (e.g. `server.get("google.com").always().thenReply(200, "hi")`)
+- Add one last rule at the end which says:
+  ```javascript
+  server.anyRequest().thenPassThrough();
+  ```
+
+This ensures that your specific rules always take precedence if they match, and any requests which don't match them get proxied untouched, and work as normal.
+
+
+```javascript
+// Proxy all example.com traffic through as normal, untouched:
+server.anyRequest().forHost("example.com").thenPassThrough();
+
+// Make all GET requests to google.com time out:
+server.get("google.com").thenTimeout();
+## Key
 ```
 -----BEGIN RSA PRIVATE KEY-----
 MIIEowIBAAKCAQEA6K0KuoN1GtBfEbh/C0JQsS6CWE509irwMrGqeRPnE8g90Gkz
@@ -65,23 +87,3 @@ n1rzPR5C/oIut01br85w/yJnpWFsbW1U2zzEP5Y7D53SZZ67qidZgk5stJoEuE4X
 G8pH8Dd49lkrQm2sBXPLtv7ddhFHHWLamtYTeGgLaJ2QgB6FHuy2
 -----END RSA PRIVATE KEY-----
 ```
-This defines a few different rules for specific requests. Try viewing Google.com for example (it'll timeout) or visiting GitHub (it'll give you Wikipedia instead).
-
-This only works for the specific traffic that's matched. If you'd like to proxy most traffic as normal, so the internet basically works but only one or two things are changed, then:
-
-- Define your specific rules, as above
-- Include a `.always()` specifier on each one (e.g. `server.get("google.com").always().thenReply(200, "hi")`)
-- Add one last rule at the end which says:
-  ```javascript
-  server.anyRequest().thenPassThrough();
-  ```
-
-This ensures that your specific rules always take precedence if they match, and any requests which don't match them get proxied untouched, and work as normal.
-
-
-```javascript
-// Proxy all example.com traffic through as normal, untouched:
-server.anyRequest().forHost("example.com").thenPassThrough();
-
-// Make all GET requests to google.com time out:
-server.get("google.com").thenTimeout();
